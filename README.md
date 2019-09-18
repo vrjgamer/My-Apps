@@ -3,7 +3,7 @@ List of all my apps on play store
 
 Onvo -> https://play.google.com/store/apps/details?id=com.vrjco.v.conversations&hl=en_US
 
-Onvo TV -> https://github.com/vrjgamer/My-Apps/raw/master/Onvo%20TV%20App/OnvoTV%20.apk
+Onvo TV -> https://github.com/vrjgamer/My-Apps/tree/master/Onvo%20TV%20App#onvo-tv-app
 
 Ragam 18 -> https://play.google.com/store/apps/details?id=com.v.vrjco.ragam18&hl=en_US
 
